@@ -1,1 +1,1 @@
-# Implementare-Lista-Ordonata
+Sa se implementeze o lista ordonata folosind o anumita reprezentare (indicata) si o lista inlantuita(LSI - lista simplu inlantuita, LDI - lista dublu inlantuita) ca structura de date, cu alocare dinamica pentru memorarea inlantuirilor.
